@@ -1,15 +1,19 @@
 {
-  "name": "hi",
+  "name": "npm-hello-world-module",
   "version": "1.0.0",
-  "description": "simple npm-module that says 'Hello World'",
+  "description": "\u0016simple npm-module that says Hello World",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:frosch000/Code-In-Hello-World-npm-module.git"
+    "url": "git+https://github.com/frosch000/npm-hello-world-module.git"
   },
   "author": "Felix Gillich",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frosch000/npm-hello-world-module/issues"
+  },
+  "homepage": "https://github.com/frosch000/npm-hello-world-module#readme"
 }
