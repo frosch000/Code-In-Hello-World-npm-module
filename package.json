@@ -1,0 +1,15 @@
+{
+  "name": "hi",
+  "version": "1.0.0",
+  "description": "simple npm-module that says 'Hello World'",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:frosch000/Code-In-Hello-World-npm-module.git"
+  },
+  "author": "Felix Gillich",
+  "license": "ISC"
+}
